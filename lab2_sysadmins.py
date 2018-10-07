@@ -150,7 +150,7 @@ def main():
                 ipList.add(one_element)
 
     ipList.sort()
-    ipList.group_by_mask(23)
+    ipList.group_by_mask(24)
 
 if __name__ == '__main__':
     main()
